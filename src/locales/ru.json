@@ -1,0 +1,7 @@
+{
+  "header.title": "IT Город",
+  "validation.required": "Обязательный",
+  "menu.field.buildings": "Количество зданий",
+  "menu.field.elevators": "Количество лифтов",
+  "menu.form.button": "Применить"
+}

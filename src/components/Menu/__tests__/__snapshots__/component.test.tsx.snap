@@ -1,0 +1,116 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Menu component > matches snapshot 1`] = `
+<div>
+  <button
+    aria-label="Toggle Menu"
+    class="css-dpgjf5-Menu css-16yh5qk-IconButton"
+    title="Menu"
+  >
+    <svg
+      class="css-6ggdel-MenuIcon"
+      fill="currentColor"
+      height="24"
+      viewBox="0 0 24 24"
+      width="24"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"
+      />
+    </svg>
+  </button>
+  <div
+    class="css-1c6v7zj e2042gd0"
+    hidden=""
+  >
+    <div
+      class="css-1dbjoxg e2042gd1"
+    >
+      <button
+        aria-label="Close"
+        class="css-dpgjf5-Menu css-16yh5qk-IconButton"
+        title="Close"
+      >
+        <svg
+          fill="currentColor"
+          height="24"
+          viewBox="0 0 24 24"
+          width="24"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+          />
+        </svg>
+      </button>
+    </div>
+    <div>
+      <button
+        class="css-1u7vauk e2042gd2 css-63w12c-Box"
+      >
+        EN
+      </button>
+      <button
+        class="css-1u7vauk e2042gd2 css-spflw6-Box"
+      >
+        RU
+      </button>
+    </div>
+    <form
+      class="css-1e6k42 ek78sxw0"
+    >
+      <div
+        class="css-1d4fvjs ek78sxw1"
+      >
+        <div
+          class="css-15m0o2s-Form css-vd02hx-Flex"
+        >
+          <label
+            for="radix-:r0:"
+          >
+            Number of buildings
+          </label>
+        </div>
+        <input
+          id="radix-:r0:"
+          min="1"
+          name="buildings"
+          required=""
+          title=""
+          type="number"
+          value="1"
+        />
+      </div>
+      <div
+        class="css-1d4fvjs ek78sxw1"
+      >
+        <div
+          class="css-15m0o2s-Form css-vd02hx-Flex"
+        >
+          <label
+            for="radix-:r1:"
+          >
+            Number of elevators
+          </label>
+        </div>
+        <input
+          id="radix-:r1:"
+          min="1"
+          name="elevators"
+          required=""
+          title=""
+          type="number"
+          value="1"
+        />
+      </div>
+      <button
+        class="css-1lx031s-Form css-spflw6-Box"
+        type="submit"
+      >
+        Apply
+      </button>
+    </form>
+  </div>
+</div>
+`;
